@@ -7,7 +7,7 @@ import Product from '../components/Product';
 
 const HomeScreen = () => {
   return (
-    <>
+    <div className="my-3">
       <h1>Latest Products</h1>
       <Row>
         {products.map((product) => (
@@ -16,7 +16,7 @@ const HomeScreen = () => {
           </Col>
         ))}
       </Row>
-    </>
+    </div>
   );
 };
 

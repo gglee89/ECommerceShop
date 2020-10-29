@@ -1,0 +1,23 @@
+{
+  "name": "ecommerceshop",
+  "version": "1.0.0",
+  "description": "ECommerce Shopping Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gglee89/ECommerceShop.git"
+  },
+  "author": "Giwoo G Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gglee89/ECommerceShop/issues"
+  },
+  "homepage": "https://github.com/gglee89/ECommerceShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
