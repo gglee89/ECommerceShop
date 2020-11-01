@@ -29,3 +29,8 @@ Node-Express Server with Mongoose
     - [x] `userModel`;
     - [x] `productModel`;
     - [x] `orderModel`;
+  - [x] Setup `MongoDB's` base for the DB seeder script with `data/products.js`;
+    - [x] Remove `_id`;
+    - [x] Install `npm i bcryptjs`
+      - `bcryptjs` have less dependencies than `bcrypt` and is less prone to errors in comparison;
+    - [x] Create `data/users.js` to serve as the base for the seeder script.
