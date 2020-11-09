@@ -4,9 +4,10 @@ ReactJS
 
 # Steps
 
-1. Setup 'create-react-app'
-2. Import 'bootstrap.min.css' `Lux (A touch of glass)` theme from https://bootswatch.com/
-3. Install `npm i react-bootstrap`
-4. Import `Nav` from `react-bootstrap` components.
-5. Import `font-awesome` CDN from cdnjs.com
-6. Install `npm i react-router-dom react-router-bootstrap`
+- [x] Setup 'create-react-app'
+- [x] Import 'bootstrap.min.css' `Lux (A touch of glass)` theme from https://bootswatch.com/
+- [x] Install `npm i react-bootstrap`
+- [x] Import `Nav` from `react-bootstrap` components.
+- [x] Import `font-awesome` CDN from cdnjs.com
+- [x] Install `npm i react-router-dom react-router-bootstrap`
+- [x] Install `npm i redux react-redux`

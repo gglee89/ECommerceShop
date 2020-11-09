@@ -34,3 +34,5 @@ Node-Express Server with Mongoose
     - [x] Install `npm i bcryptjs`
       - `bcryptjs` have less dependencies than `bcrypt` and is less prone to errors in comparison;
     - [x] Create `data/users.js` to serve as the base for the seeder script.
+  - [x] Setup `Express Routes` for `products`;
+    - [x] Install `npm i express-async-handler` as middleware to handle exceptions inside of async of Express Routes.
